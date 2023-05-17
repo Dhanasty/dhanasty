@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently Natural Language Processing models<br>
+I'm currently working with NLP models<br>
 
 
 ## 🌐 Socials:
